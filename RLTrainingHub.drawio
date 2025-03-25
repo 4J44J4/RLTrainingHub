@@ -114,7 +114,7 @@
         <mxCell id="lpIHTe9n_QiTVo1zmnq9-1" value="&lt;h2&gt;How it will work:&lt;/h2&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;1. The user will press a button that will open the plugins UI.&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;2. This UI will include a list of training options that the user can select (can also add hotkeys for quick access to a specific training method).&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;3. Depending on what option the user selects, the program will launch the training method and the player will begin training.&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="10" y="190" width="810" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="lpIHTe9n_QiTVo1zmnq9-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Text&lt;/font&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="lpIHTe9n_QiTVo1zmnq9-2" value="f" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="10" y="350" width="810" height="180" as="geometry" />
         </mxCell>
       </root>
