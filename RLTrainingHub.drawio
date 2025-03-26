@@ -55,6 +55,9 @@
         <mxCell id="NtfWf_5tjgvaC1n1LbXH-17" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;I think there could also be some kind of method of creating and storing one&#39;s own shots and packs for these options. At least for the bot, it might be beneficial to let it be used in custom training, too, so players can work on any kind of shot against it. **&lt;/font&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="10" y="960" width="380" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="NtfWf_5tjgvaC1n1LbXH-18" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Also giving the player tips on what to do may be implement as well, such as giving the player a message like &quot;If the bot is in-line with you between you and the goal, you should go for an air dribble bump&quot; or something like that. **&lt;/font&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="450" y="960" width="330" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
