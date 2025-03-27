@@ -560,14 +560,14 @@
         <mxCell id="mBLd0ddWUubjFedc6ZzN-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mBLd0ddWUubjFedc6ZzN-60" target="P54RQN-FXaDtzdC64u8D-120">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mBLd0ddWUubjFedc6ZzN-60" value="packs and shots against a bot where you have the ball" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1230" y="1900" width="160" height="61" as="geometry" />
+        <mxCell id="mBLd0ddWUubjFedc6ZzN-60" value="packs and shots against a bot where you have the ball (same thing as with Aerial Offense in mechanics, but the meter will control the bot difficulty" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1230" y="1905" width="170" height="95" as="geometry" />
         </mxCell>
         <mxCell id="mBLd0ddWUubjFedc6ZzN-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mBLd0ddWUubjFedc6ZzN-63" target="P54RQN-FXaDtzdC64u8D-119">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mBLd0ddWUubjFedc6ZzN-63" value="Packs and shots against a bot where the bot has the ball" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1410" y="1897.5" width="160" height="30" as="geometry" />
+        <mxCell id="mBLd0ddWUubjFedc6ZzN-63" value="Packs and shots against a bot where the bot has the ball, meter controls bot difficulty" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1410" y="1897.5" width="170" height="82.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
