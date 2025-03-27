@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3296" dy="950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3092" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -154,10 +154,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="P54RQN-FXaDtzdC64u8D-29" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P54RQN-FXaDtzdC64u8D-21">
+        <mxCell id="P54RQN-FXaDtzdC64u8D-29" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1.006;entryY=0.554;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P54RQN-FXaDtzdC64u8D-21" target="P54RQN-FXaDtzdC64u8D-36">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-120" y="1320" as="sourcePoint" />
-            <mxPoint x="-250" y="1220" as="targetPoint" />
+            <mxPoint x="-560" y="1260" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-70" y="1320" />
               <mxPoint x="-120" y="1270" />
@@ -271,6 +271,22 @@
         </mxCell>
         <mxCell id="P54RQN-FXaDtzdC64u8D-77" value="User pushes key bind to select the shot" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1270" y="910" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P54RQN-FXaDtzdC64u8D-78" value="Plugin will begin training by putting the user in freeplay at the specified position of the selected shot. The game will be frozen at that point until the user presses a key, and then the user will be able to play through the shot. The shot will then be reset by pressing the same button the user uses to reset freeplay normally." style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-2130" y="470" width="220" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="P54RQN-FXaDtzdC64u8D-79" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.005;exitY=0.465;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P54RQN-FXaDtzdC64u8D-62">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1870" y="530" as="sourcePoint" />
+            <mxPoint x="-1890" y="560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1820" y="530" />
+              <mxPoint x="-1860" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P54RQN-FXaDtzdC64u8D-80" value="(Same thing that happens when the user selects Aerial Offense will happen when the user selects Ground Offense just with different packs and shots)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-500" y="1149" width="300" height="121" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
