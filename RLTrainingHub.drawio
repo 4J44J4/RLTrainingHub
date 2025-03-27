@@ -137,7 +137,7 @@
         <mxCell id="P54RQN-FXaDtzdC64u8D-27" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.325;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P54RQN-FXaDtzdC64u8D-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-520" y="1460" as="sourcePoint" />
-            <mxPoint x="-550" y="1380" as="targetPoint" />
+            <mxPoint x="-630" y="1370" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-470" y="1460" />
               <mxPoint x="-520" y="1410" />
@@ -147,7 +147,7 @@
         <mxCell id="P54RQN-FXaDtzdC64u8D-28" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=-0.006;exitY=0.797;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P54RQN-FXaDtzdC64u8D-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-540" y="1620" as="sourcePoint" />
-            <mxPoint x="-560" y="1620" as="targetPoint" />
+            <mxPoint x="-580" y="1660" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-490" y="1620" />
               <mxPoint x="-540" y="1570" />
@@ -157,12 +157,35 @@
         <mxCell id="P54RQN-FXaDtzdC64u8D-29" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P54RQN-FXaDtzdC64u8D-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-120" y="1320" as="sourcePoint" />
-            <mxPoint x="-200" y="1190" as="targetPoint" />
+            <mxPoint x="-250" y="1220" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-70" y="1320" />
               <mxPoint x="-120" y="1270" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="P54RQN-FXaDtzdC64u8D-30" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P54RQN-FXaDtzdC64u8D-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-60" y="1660" as="sourcePoint" />
+            <mxPoint x="-120" y="1720" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-100" y="1590" />
+              <mxPoint x="-80" y="1620" />
+              <mxPoint x="-70" y="1650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P54RQN-FXaDtzdC64u8D-31" value="User selects General" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-220" y="1620" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P54RQN-FXaDtzdC64u8D-32" value="User selects Ground Offense" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-270" y="1290" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P54RQN-FXaDtzdC64u8D-33" value="User selects Aerial Offense" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-580" y="1360" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P54RQN-FXaDtzdC64u8D-34" value="User selects Movement" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-530" y="1600" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
