@@ -484,7 +484,7 @@
         <mxCell id="mBLd0ddWUubjFedc6ZzN-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mBLd0ddWUubjFedc6ZzN-35" target="mBLd0ddWUubjFedc6ZzN-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mBLd0ddWUubjFedc6ZzN-35" value="Training where the ball starts on the opposite side of the field and slowly and randomly makes it&#39;s way down to the user&#39;s side and they have to shadow until the ball is about 1/5th of the way into their half" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="mBLd0ddWUubjFedc6ZzN-35" value="Training where the ball starts on the opposite side of the field and slowly and randomly makes it&#39;s way down to the user&#39;s side and they have to shadow until the ball is about 1/5th of the way into their half, or where the player has to stay close from behind and challenge in a similar way" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="791.25" y="2440" width="272.5" height="120" as="geometry" />
         </mxCell>
       </root>
