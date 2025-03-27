@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3092" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3459" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -144,13 +144,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="P54RQN-FXaDtzdC64u8D-28" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=-0.006;exitY=0.797;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P54RQN-FXaDtzdC64u8D-21">
+        <mxCell id="P54RQN-FXaDtzdC64u8D-28" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=-0.006;exitY=0.797;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.868;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P54RQN-FXaDtzdC64u8D-21" target="P54RQN-FXaDtzdC64u8D-36">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-540" y="1620" as="sourcePoint" />
             <mxPoint x="-580" y="1660" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-490" y="1620" />
-              <mxPoint x="-540" y="1570" />
+              <mxPoint x="-420" y="1720" />
+              <mxPoint x="-780" y="1580" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -185,7 +185,7 @@
           <mxGeometry x="-580" y="1360" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P54RQN-FXaDtzdC64u8D-34" value="User selects Movement" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-530" y="1600" width="140" height="30" as="geometry" />
+          <mxGeometry x="-413" y="1610" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P54RQN-FXaDtzdC64u8D-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1310" y="1010" width="680" height="390" as="geometry" />
@@ -287,6 +287,12 @@
         </mxCell>
         <mxCell id="P54RQN-FXaDtzdC64u8D-80" value="(Same thing that happens when the user selects Aerial Offense will happen when the user selects Ground Offense just with different packs and shots)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-500" y="1149" width="300" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="P54RQN-FXaDtzdC64u8D-82" value="Same thing as with Ground Shots, just with movement mechs being replayed (also put the ball in the corner of the field somewhere)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-920" y="1610" width="300" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="P54RQN-FXaDtzdC64u8D-83" value="Be sure to be in the positive Y-axis for shots**" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1240" y="1100" width="180" height="69" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
