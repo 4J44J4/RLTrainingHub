@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="4814" dy="1267" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
+    <mxGraphModel dx="5481" dy="1629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -198,6 +198,9 @@
         </mxCell>
         <mxCell id="P54RQN-FXaDtzdC64u8D-41" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;[name of current pack]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1300" y="1344" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mBLd0ddWUubjFedc6ZzN-216" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P54RQN-FXaDtzdC64u8D-44" target="NtfWf_5tjgvaC1n1LbXH-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P54RQN-FXaDtzdC64u8D-44" value="(There will also be a tab in the F2 menu where the user is told how to set up the plugin, and where the user can find answers to any questions they may have)" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="570" y="1139" width="250" height="30" as="geometry" />
@@ -905,6 +908,12 @@
         </mxCell>
         <mxCell id="mBLd0ddWUubjFedc6ZzN-214" value="SHOW METER *AFTER* PRESSING TE BUTTON TO SELECT THE SHOT" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-720" y="3217" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="mBLd0ddWUubjFedc6ZzN-218" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mBLd0ddWUubjFedc6ZzN-217" target="P54RQN-FXaDtzdC64u8D-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mBLd0ddWUubjFedc6ZzN-217" value="possibly in an informational menu where the player follows the same buttons to get to each section, there will be text relevant to that section" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="859" y="1149" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
