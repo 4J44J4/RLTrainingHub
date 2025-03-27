@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2830" dy="407" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3296" dy="950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -236,18 +236,18 @@
         <mxCell id="P54RQN-FXaDtzdC64u8D-63" value="Game is still in freeplay and freecam, but the shot is frozen at the place where the meter shows" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1500" y="540" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="P54RQN-FXaDtzdC64u8D-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P54RQN-FXaDtzdC64u8D-68" target="P54RQN-FXaDtzdC64u8D-62">
+        <mxCell id="P54RQN-FXaDtzdC64u8D-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P54RQN-FXaDtzdC64u8D-68" target="P54RQN-FXaDtzdC64u8D-72">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-1535" y="790" />
-              <mxPoint x="-1630" y="790" />
+              <mxPoint x="-1430" y="790" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="P54RQN-FXaDtzdC64u8D-68" value="meter that the user can scroll through with arrow keys to select what part of the shot the training will start at" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="P54RQN-FXaDtzdC64u8D-68" value="(meter that the user can scroll through with arrow keys to select what part of the shot the training will start at)" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1690" y="810" width="309" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="P54RQN-FXaDtzdC64u8D-71" value="(The user will push a key bind to select the shot)" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="P54RQN-FXaDtzdC64u8D-71" value="(The user will push a key bind to begin training)" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1230" y="717" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P54RQN-FXaDtzdC64u8D-72" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -256,8 +256,21 @@
         <mxCell id="P54RQN-FXaDtzdC64u8D-74" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1496" y="662" width="132" height="6" as="geometry" />
         </mxCell>
-        <mxCell id="P54RQN-FXaDtzdC64u8D-75" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="P54RQN-FXaDtzdC64u8D-75" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1496" y="662" width="86" height="6" as="geometry" />
+        </mxCell>
+        <mxCell id="P54RQN-FXaDtzdC64u8D-76" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.18;exitY=-0.009;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.73;entryY=1.009;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P54RQN-FXaDtzdC64u8D-36" target="P54RQN-FXaDtzdC64u8D-62">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1300" y="970" as="sourcePoint" />
+            <mxPoint x="-1250" y="920" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1250" y="970" />
+              <mxPoint x="-1300" y="920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P54RQN-FXaDtzdC64u8D-77" value="User pushes key bind to select the shot" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1270" y="910" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
