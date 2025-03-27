@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1050" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1316" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -13,50 +13,117 @@
         <mxCell id="lpIHTe9n_QiTVo1zmnq9-2" value="&lt;h3&gt;As of right now, I see three sections of Training:&lt;/h3&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="10" y="370" width="810" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="NtfWf_5tjgvaC1n1LbXH-0" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="NtfWf_5tjgvaC1n1LbXH-0" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="70" y="410" width="140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="NtfWf_5tjgvaC1n1LbXH-5" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Mechanics&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="NtfWf_5tjgvaC1n1LbXH-5" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Mechanics&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="70" y="410" width="140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="NtfWf_5tjgvaC1n1LbXH-7" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="NtfWf_5tjgvaC1n1LbXH-7" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="610" y="410" width="140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="NtfWf_5tjgvaC1n1LbXH-8" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="NtfWf_5tjgvaC1n1LbXH-8" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="345" y="410" width="140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="NtfWf_5tjgvaC1n1LbXH-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NtfWf_5tjgvaC1n1LbXH-9" target="NtfWf_5tjgvaC1n1LbXH-13">
+        <mxCell id="NtfWf_5tjgvaC1n1LbXH-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NtfWf_5tjgvaC1n1LbXH-9" target="NtfWf_5tjgvaC1n1LbXH-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NtfWf_5tjgvaC1n1LbXH-9" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Defense&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="NtfWf_5tjgvaC1n1LbXH-9" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Defense&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="345" y="410" width="140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="NtfWf_5tjgvaC1n1LbXH-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NtfWf_5tjgvaC1n1LbXH-10" target="NtfWf_5tjgvaC1n1LbXH-14">
+        <mxCell id="NtfWf_5tjgvaC1n1LbXH-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NtfWf_5tjgvaC1n1LbXH-10" target="NtfWf_5tjgvaC1n1LbXH-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NtfWf_5tjgvaC1n1LbXH-10" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Vs. Bot&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="NtfWf_5tjgvaC1n1LbXH-10" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Vs. Bot&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="610" y="410" width="140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="NtfWf_5tjgvaC1n1LbXH-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NtfWf_5tjgvaC1n1LbXH-5" target="NtfWf_5tjgvaC1n1LbXH-12">
+        <mxCell id="NtfWf_5tjgvaC1n1LbXH-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NtfWf_5tjgvaC1n1LbXH-5" target="NtfWf_5tjgvaC1n1LbXH-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="560" as="sourcePoint" />
             <mxPoint x="140" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NtfWf_5tjgvaC1n1LbXH-12" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;When this option is selected, the game will open freeplay, go into a free-cam mode where there will be a preview of the current selected shot. The user will select which shot by using keybinds to sort through packs (such as &quot;Aerial Offense&quot;, &quot;Ground Offense&quot;, &quot;Movement&quot;, etc.) and to sort through shots (if the &quot;Aerial Offense&quot; pack is selected, for example, then the different shots will be &quot;Air Dribble&quot;, &quot;Flip Reset&quot;, &quot;Pogo Shot&quot;, etc.). I want the player to be able to select which part of the shot the trainer will start them at so they can really rep-out whatever part of the shot they struggle with the most.&lt;/span&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="NtfWf_5tjgvaC1n1LbXH-12" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;When this option is selected, the game will open freeplay, go into a free-cam mode where there will be a preview of the current selected shot. The user will select which shot by using keybinds to sort through packs (such as &quot;Aerial Offense&quot;, &quot;Ground Offense&quot;, &quot;Movement&quot;, etc.) and to sort through shots (if the &quot;Aerial Offense&quot; pack is selected, for example, then the different shots will be &quot;Air Dribble&quot;, &quot;Flip Reset&quot;, &quot;Pogo Shot&quot;, etc.). I want the player to be able to select which part of the shot the trainer will start them at so they can really rep-out whatever part of the shot they struggle with the most.&lt;/span&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="10" y="570" width="260" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="NtfWf_5tjgvaC1n1LbXH-13" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;When this option is selected, the game will open freeplay and have a couple defensive drills to choose from. One will be similar to the &quot;Mechanics&quot; section where you will have different kinds of packs and shots to choose from. Depending on the pack and the shot, the ball will travel slowly and randomly pick up speed towards the net where the defender is forced to react and make a save (there can also be a difficulty setting to control how fast the ball launches at the net). There could also be more defensive drills such as practicing orienting one&#39;s car to block 50/50s, or maybe some kind of drill to help with challenging the ball before the opponent shoots.&lt;/span&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="NtfWf_5tjgvaC1n1LbXH-13" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;When this option is selected, the game will open freeplay and have a couple defensive drills to choose from. One will be similar to the &quot;Mechanics&quot; section where you will have different kinds of packs and shots to choose from. Depending on the pack and the shot, the ball will travel slowly and randomly pick up speed towards the net where the defender is forced to react and make a save (there can also be a difficulty setting to control how fast the ball launches at the net). There could also be more defensive drills such as practicing orienting one&#39;s car to block 50/50s, or maybe some kind of drill to help with challenging the ball before the opponent shoots.&lt;/span&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="285" y="570" width="260" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="NtfWf_5tjgvaC1n1LbXH-14" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;When this option is selected, the user will have the option to train either offense or defense against a bot. Once one is selected, there will be packs and shots (of course) where the user can select what kind of shot they want to practice shooting or defending. The main goal of this section is to work on reading the opponent, especially on offense being able to read the position of the bot and pick the most effective move in that position. There should be different settings to the bot including one that kind of randomizes what it does so that it will not do the same thing every time. There could also be some kind of option to work on awkward midfield exchanges against a bot, maybe as another option the user is shown upon selecting the &quot;Vs. Bot&quot; option.&lt;/span&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="NtfWf_5tjgvaC1n1LbXH-14" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;When this option is selected, the user will have the option to train either offense or defense against a bot. Once one is selected, there will be packs and shots (of course) where the user can select what kind of shot they want to practice shooting or defending. The main goal of this section is to work on reading the opponent, especially on offense being able to read the position of the bot and pick the most effective move in that position. There should be different settings to the bot including one that kind of randomizes what it does so that it will not do the same thing every time. There could also be some kind of option to work on awkward midfield exchanges against a bot, maybe as another option the user is shown upon selecting the &quot;Vs. Bot&quot; option.&lt;/span&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="550" y="570" width="260" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="NtfWf_5tjgvaC1n1LbXH-17" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;I think there could also be some kind of method of creating and storing one&#39;s own shots and packs for these options. At least for the bot, it might be beneficial to let it be used in custom training, too, so players can work on any kind of shot against it. **&lt;/font&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="NtfWf_5tjgvaC1n1LbXH-17" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;I think there could also be some kind of method of creating and storing one&#39;s own shots and packs for these options. At least for the bot, it might be beneficial to let it be used in custom training, too, so players can work on any kind of shot against it. **&lt;/font&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="10" y="960" width="380" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="NtfWf_5tjgvaC1n1LbXH-18" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Also giving the player tips on what to do may be implement as well, such as giving the player a message like &quot;If the bot is in-line with you between you and the goal, you should go for an air dribble bump&quot; or something like that. **&lt;/font&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="NtfWf_5tjgvaC1n1LbXH-18" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Also giving the player tips on what to do may be implement as well, such as giving the player a message like &quot;If the bot is in-line with you between you and the goal, you should go for an air dribble bump&quot; or something like that. **&lt;/font&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="450" y="960" width="330" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="P54RQN-FXaDtzdC64u8D-3" value="" style="shape=link;html=1;rounded=0;width=5;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint y="1110" as="sourcePoint" />
+            <mxPoint x="820" y="1110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P54RQN-FXaDtzdC64u8D-4" value="1. UI on starting the plugin:" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="300" y="1100" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="P54RQN-FXaDtzdC64u8D-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="165" y="1200" width="500" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="P54RQN-FXaDtzdC64u8D-7" value="Mechanics" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="210" y="1277.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P54RQN-FXaDtzdC64u8D-8" value="Defense" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="365" y="1277.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P54RQN-FXaDtzdC64u8D-9" value="Vs. Bot" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="525" y="1277.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P54RQN-FXaDtzdC64u8D-10" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.13;exitY=0.992;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.999;entryY=0.438;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P54RQN-FXaDtzdC64u8D-6" target="P54RQN-FXaDtzdC64u8D-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="1440" as="sourcePoint" />
+            <mxPoint x="-20" y="1410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="120" y="1440" />
+              <mxPoint x="70" y="1390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P54RQN-FXaDtzdC64u8D-11" value="User selects Mechanics" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="1430" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P54RQN-FXaDtzdC64u8D-14" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.798;exitY=1.014;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P54RQN-FXaDtzdC64u8D-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="1435" as="sourcePoint" />
+            <mxPoint x="810" y="1440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="720" y="1435" />
+              <mxPoint x="670" y="1385" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P54RQN-FXaDtzdC64u8D-16" value="User selects Vs. Bot" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="610" y="1420" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P54RQN-FXaDtzdC64u8D-18" value="User selects Defense" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="265" y="1420" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P54RQN-FXaDtzdC64u8D-19" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.463;exitY=0.979;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P54RQN-FXaDtzdC64u8D-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="1530" as="sourcePoint" />
+            <mxPoint x="370" y="1500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="1410" />
+              <mxPoint x="430" y="1450" />
+              <mxPoint x="370" y="1470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P54RQN-FXaDtzdC64u8D-20" value="2a." style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-230" y="1355" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P54RQN-FXaDtzdC64u8D-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-400" y="1385" width="370" height="185" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
