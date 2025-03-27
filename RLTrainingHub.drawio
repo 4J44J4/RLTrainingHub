@@ -420,6 +420,12 @@
         <mxCell id="mBLd0ddWUubjFedc6ZzN-2" value="Pseudo boomer-mode where the ball will be set to the max speed on the players touch" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-20" y="1747.5" width="200" height="65" as="geometry" />
         </mxCell>
+        <mxCell id="mBLd0ddWUubjFedc6ZzN-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mBLd0ddWUubjFedc6ZzN-4" target="P54RQN-FXaDtzdC64u8D-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mBLd0ddWUubjFedc6ZzN-4" value="Game will be like a tony hawk kind of thing where the play does movement moves and gets combos and score for each movement mech they perform" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-218.75" y="1940" width="172.5" height="97.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
