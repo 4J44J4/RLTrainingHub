@@ -487,6 +487,35 @@
         <mxCell id="mBLd0ddWUubjFedc6ZzN-35" value="Training where the ball starts on the opposite side of the field and slowly and randomly makes it&#39;s way down to the user&#39;s side and they have to shadow until the ball is about 1/5th of the way into their half, or where the player has to stay close from behind and challenge in a similar way" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="791.25" y="2440" width="272.5" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="mBLd0ddWUubjFedc6ZzN-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mBLd0ddWUubjFedc6ZzN-37" target="mBLd0ddWUubjFedc6ZzN-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mBLd0ddWUubjFedc6ZzN-37" value="Same thing as mechanics with the packs and shots" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-25" y="2450" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mBLd0ddWUubjFedc6ZzN-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mBLd0ddWUubjFedc6ZzN-39" target="mBLd0ddWUubjFedc6ZzN-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mBLd0ddWUubjFedc6ZzN-39" value="Same thing as mechanics with the packs and shots, but include a bot behind the ball that the player has to read and block accordingly" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="70" y="2520" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mBLd0ddWUubjFedc6ZzN-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mBLd0ddWUubjFedc6ZzN-42" target="mBLd0ddWUubjFedc6ZzN-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="2440" />
+              <mxPoint x="300" y="2440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mBLd0ddWUubjFedc6ZzN-42" value="Same thing with the packs and shots but put player in awkward situations around the goal and have them practice getting the ball out of dangerous situations by either clearing it or keeping it close" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="345" y="2460" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mBLd0ddWUubjFedc6ZzN-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mBLd0ddWUubjFedc6ZzN-45" target="mBLd0ddWUubjFedc6ZzN-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mBLd0ddWUubjFedc6ZzN-45" value="Packs and shots" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="650" y="2300" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
