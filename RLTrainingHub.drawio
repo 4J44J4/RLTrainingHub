@@ -303,10 +303,10 @@
         <mxCell id="P54RQN-FXaDtzdC64u8D-86" value="Infinite Dribbling" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-370" y="1765" width="95" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="P54RQN-FXaDtzdC64u8D-87" value="wall to wall?" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="P54RQN-FXaDtzdC64u8D-87" value="Boomer" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-180" y="1765" width="95" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="P54RQN-FXaDtzdC64u8D-88" value="ffff" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="P54RQN-FXaDtzdC64u8D-88" value="Movement Game" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-180" y="1825" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P54RQN-FXaDtzdC64u8D-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.552;exitY=0.023;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P54RQN-FXaDtzdC64u8D-89" target="P54RQN-FXaDtzdC64u8D-82" edge="1">
@@ -400,6 +400,25 @@
               <mxPoint x="680" y="1630" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="mBLd0ddWUubjFedc6ZzN-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-330.62000000000046" y="1950" as="sourcePoint" />
+            <mxPoint x="-330.62000000000046" y="1855" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-330.62" y="1880" />
+              <mxPoint x="-330.62" y="1880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mBLd0ddWUubjFedc6ZzN-0" value="Ball will randomly launch at the player at they will try to get a touch that glues the ball to the car" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-430" y="1950" width="200" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="mBLd0ddWUubjFedc6ZzN-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mBLd0ddWUubjFedc6ZzN-2" target="P54RQN-FXaDtzdC64u8D-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mBLd0ddWUubjFedc6ZzN-2" value="Pseudo boomer-mode where the ball will be set to the max speed on the players touch" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-20" y="1747.5" width="200" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
