@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3704" dy="1425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3092" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -387,6 +387,19 @@
         </mxCell>
         <mxCell id="P54RQN-FXaDtzdC64u8D-120" value="Offense" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1250" y="1750" width="120" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="P54RQN-FXaDtzdC64u8D-121" value="grind out common scenarios to practice making the right decisions (taking low 50s in the corners, for example, or faking the opponent in the midfield and keeping the ball close instead of playing into them" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="750" y="1675" width="260" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="P54RQN-FXaDtzdC64u8D-122" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.3;exitY=0.006;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.008;entryY=0.61;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P54RQN-FXaDtzdC64u8D-121" target="P54RQN-FXaDtzdC64u8D-112">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="1680" as="sourcePoint" />
+            <mxPoint x="730" y="1630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="730" y="1680" />
+              <mxPoint x="680" y="1630" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
