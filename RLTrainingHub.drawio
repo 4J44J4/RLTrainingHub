@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3794" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
+    <mxGraphModel dx="3716" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -420,11 +420,16 @@
         <mxCell id="mBLd0ddWUubjFedc6ZzN-2" value="Pseudo boomer-mode where the ball will be set to the max speed on the players touch" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-20" y="1747.5" width="200" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="mBLd0ddWUubjFedc6ZzN-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mBLd0ddWUubjFedc6ZzN-4" target="P54RQN-FXaDtzdC64u8D-88">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="mBLd0ddWUubjFedc6ZzN-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mBLd0ddWUubjFedc6ZzN-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-130" y="1890" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="mBLd0ddWUubjFedc6ZzN-4" value="Game will be like a tony hawk kind of thing where the play does movement moves and gets combos and score for each movement mech they perform" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-218.75" y="1940" width="172.5" height="97.5" as="geometry" />
+        </mxCell>
+        <mxCell id="mBLd0ddWUubjFedc6ZzN-6" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Timer dropdown menu underneath movement game*&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-207" y="1851" width="137.5" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
