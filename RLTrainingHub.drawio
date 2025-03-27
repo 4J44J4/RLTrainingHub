@@ -443,19 +443,13 @@
         <mxCell id="mBLd0ddWUubjFedc6ZzN-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="2230" width="355" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="mBLd0ddWUubjFedc6ZzN-23" value="First Man" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="230" y="2343.75" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="mBLd0ddWUubjFedc6ZzN-24" value="Blocking 50s" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="220" y="2271.25" width="80" height="30" as="geometry" />
+          <mxGeometry x="130" y="2310" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mBLd0ddWUubjFedc6ZzN-25" value="Reaction Speed" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="39" y="2271.25" width="90" height="30" as="geometry" />
+        <mxCell id="mBLd0ddWUubjFedc6ZzN-25" value="Quick Saves" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="10" y="2310" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mBLd0ddWUubjFedc6ZzN-26" value="Challenging" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="44.5" y="2343.75" width="79" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mBLd0ddWUubjFedc6ZzN-27" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.179;exitY=0.995;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.595;entryY=0.021;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mBLd0ddWUubjFedc6ZzN-7" target="mBLd0ddWUubjFedc6ZzN-22">
+        <mxCell id="mBLd0ddWUubjFedc6ZzN-27" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.103;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mBLd0ddWUubjFedc6ZzN-7" target="mBLd0ddWUubjFedc6ZzN-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="2180" as="sourcePoint" />
             <mxPoint x="230" y="2230" as="targetPoint" />
@@ -464,6 +458,28 @@
               <mxPoint x="330" y="2140" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="mBLd0ddWUubjFedc6ZzN-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="750" y="2220" width="355" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="mBLd0ddWUubjFedc6ZzN-31" value="First Man" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="980" y="2333.75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mBLd0ddWUubjFedc6ZzN-32" value="Dive challenges" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="781" y="2300" width="89" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mBLd0ddWUubjFedc6ZzN-33" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mBLd0ddWUubjFedc6ZzN-7" target="mBLd0ddWUubjFedc6ZzN-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="2170" as="sourcePoint" />
+            <mxPoint x="750" y="2120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="680" y="2130" />
+              <mxPoint x="760" y="2140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mBLd0ddWUubjFedc6ZzN-34" value="Awkward clears" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="2310" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
