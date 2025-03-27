@@ -513,8 +513,8 @@
         <mxCell id="mBLd0ddWUubjFedc6ZzN-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mBLd0ddWUubjFedc6ZzN-45" target="mBLd0ddWUubjFedc6ZzN-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mBLd0ddWUubjFedc6ZzN-45" value="Packs and shots" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="650" y="2300" width="60" height="30" as="geometry" />
+        <mxCell id="mBLd0ddWUubjFedc6ZzN-45" value="Packs and shots (include the backflip corner challenge here)" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="560" y="2300" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
