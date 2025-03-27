@@ -197,10 +197,35 @@
           <mxGeometry x="-1310" y="1330" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="P54RQN-FXaDtzdC64u8D-41" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;[name of current pack]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1295" y="1350" width="130" height="30" as="geometry" />
+          <mxGeometry x="-1300" y="1344" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P54RQN-FXaDtzdC64u8D-44" value="(There will also be a tab in the F2 menu where the user is told how to set up the plugin, and where the user can find answers to any questions they may have)" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="570" y="1139" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P54RQN-FXaDtzdC64u8D-45" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;x/x&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1199" y="1367" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P54RQN-FXaDtzdC64u8D-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P54RQN-FXaDtzdC64u8D-46" target="P54RQN-FXaDtzdC64u8D-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1075" y="1410" />
+              <mxPoint x="-1170" y="1410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P54RQN-FXaDtzdC64u8D-46" value="[current shot]/[how many shots are in the pack]" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1230" y="1430" width="309" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P54RQN-FXaDtzdC64u8D-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P54RQN-FXaDtzdC64u8D-48" target="P54RQN-FXaDtzdC64u8D-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1305" y="1410" />
+              <mxPoint x="-1270" y="1410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P54RQN-FXaDtzdC64u8D-48" value="Player should change packs and shots with arrow keys" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1370" y="1420" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
