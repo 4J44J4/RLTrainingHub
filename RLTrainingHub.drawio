@@ -247,7 +247,7 @@
         <mxCell id="P54RQN-FXaDtzdC64u8D-68" value="(meter that the user can scroll through with arrow keys to select what part of the shot the training will start at)" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1690" y="810" width="309" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="P54RQN-FXaDtzdC64u8D-71" value="(The user will push a key bind to begin training)" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="P54RQN-FXaDtzdC64u8D-71" value="(The user will push the same key bind to select the shot to begin training)" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1230" y="717" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P54RQN-FXaDtzdC64u8D-72" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
